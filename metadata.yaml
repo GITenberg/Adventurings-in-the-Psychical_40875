@@ -1,0 +1,33 @@
+_repo: Adventurings-in-the-Psychical_40875
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40875-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bruce, H. Addington (Henry Addington)
+    alias: Bruce, Henry Addington Bayley
+    birthdate: 1874
+    deathdate: 1959
+    gutenberg_agent_id: '33491'
+    url: http://www.gutenberg.org/2009/agents/33491
+    wikipedia: http://en.wikipedia.org/wiki/Addington_Bruce
+description: ''
+gutenberg_issued: '2012-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40875'
+  lccn: '14006675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parapsychology'
+- !lcc 'BF'
+tableOfContents: Ghosts and their meaning -- Why I believe in telepathy -- Clarivoyance
+  and crystal-gazing -- Automatic speaking and writing -- Poltergeists and mediums
+  -- The subconscious -- Dissociation and disease -- The singular case of BCA -- The
+  larger self.
+title: Adventurings in the Psychical
+url: http://www.gutenberg.org/ebooks/40875
