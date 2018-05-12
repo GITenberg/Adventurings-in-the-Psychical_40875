@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33491
     wikipedia: http://en.wikipedia.org/wiki/Addington_Bruce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40875#Adventurings-in-the-Psychical
 gutenberg_issued: '2012-09-27'
 gutenberg_type: Text
 identifiers:
